@@ -1,0 +1,21 @@
+Comparison,Expected_Overlap,Observed_Overlap,(Obs - Exp)^2/Exp,Abover or Below,Correlation
+cluster_4_pos.drought_4hr_downx.,2.49764029074374,3,0.10104148240213,Higher Than Expected,-1
+cluster_4_pos.chloronemaUpx.,0.388783630162941,0,0.388783630162941,Lower Than Expected,1
+cluster_4_neg.caulonemaUpx.,39.2452375210996,35,0.459216015723246,Lower Than Expected,-1
+cluster_4_pos.sporeUpx.,0.571394123118261,0,0.571394123118261,Lower Than Expected,1
+cluster_4_pos.cold_4.0hr_downx.,22.3550587343691,26,0.594299347980402,Higher Than Expected,-1
+cluster_4_pos.drought_0.5hr_downx.,21.5833821351063,27,1.35936754076015,Higher Than Expected,-1
+cluster_4_neg.rhizUpx.,9.64311550518447,6,1.37634881351155,Lower Than Expected,-1
+cluster_4_pos.rhizUpx.,0.253298425712219,1,2.20121084241288,Higher Than Expected,1
+cluster_4_neg.gamUpx.,26.013986013986,18,2.46882472366343,Lower Than Expected,-1
+cluster_4_pos.gamUpx.,0.683316683316683,2,2.53711785290733,Higher Than Expected,1
+cluster_4_pos.drought_4.0hr_upx.,21.400771642151,29,2.69842006635855,Higher Than Expected,1
+cluster_4_pos.cold_0.5hr_downx.,23.368252437218,32,3.18838844230082,Higher Than Expected,-1
+cluster_4_pos.salt_0.5hr_downx.,23.5508629301733,35,5.56594210718868,Higher Than Expected,-1
+cluster_4_pos.aba_4.0hr_upx.,13.8371628371628,27,12.5213733634786,Higher Than Expected,1
+cluster_4_pos.caulonemaUpx.,1.0308656860381,5,15.2823276743422,Higher Than Expected,1
+cluster_4_pos.salt_4hr_downx.,25.4240931482311,46,16.6522337809373,Higher Than Expected,-1
+cluster_4_neg.sporeUpx.,21.7530745116952,41,17.029507279681,Higher Than Expected,-1
+cluster_4_pos.aba_0.5hr_downx.,24.5876192772745,47,20.4295830350958,Higher Than Expected,-1
+cluster_4_neg.chloronemaUpx.,14.8010610079576,39,39.563964233764,Higher Than Expected,-1
+cluster_4_pos.salt_4.0hr_upx.,14.9740604223363,42,48.7777790028158,Higher Than Expected,1
